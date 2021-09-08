@@ -1,4 +1,4 @@
-<h2>  Overview of <abbr title='web browser PyQt5 '> W_B_QT5 </abbr> </h>
+<h2>  Overview of <abbr title='web browser PyQt5 '> W_B_QT5 </abbr> </h2>
 This is a just <b> Template </b> for a Search API
 <h3> Importnat </h3>
 This File has an  <abbr title="self.horizontal.addWidget(self.url_bar)
